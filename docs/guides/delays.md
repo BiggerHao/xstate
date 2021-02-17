@@ -47,7 +47,7 @@ states: {
 // ...
 ```
 
-They can be also be conditional with regard to a single delay value:
+They can also be conditional with regard to a single delay value:
 
 ```js
 // ...
